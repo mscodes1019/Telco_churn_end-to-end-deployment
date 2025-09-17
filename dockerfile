@@ -56,7 +56,7 @@ COPY . .
 # Copy model artifacts to a flat folder
 COPY src/serving/model/m-76e3173b16484fef9c8c8505fc27a91b/artifacts/model /app/src/model/model
 COPY src/serving/model/m-76e3173b16484fef9c8c8505fc27a91b/artifacts/feature_columns.txt /app/src/model/feature_columns.txt
-COPY src/serving/model/m-76e3173b16484fef9c8c8505fc27a91b/artifacts/preprocessing.pkl  /app/src/model/preprocessing.pkl
+#COPY src/serving/model/m-76e3173b16484fef9c8c8505fc27a91b/artifacts/preprocessing.pkl  /app/src/model/preprocessing.pkl
 
 ENV PYTHONUNBUFFERED=1 \
     PYTHONPATH=/app
