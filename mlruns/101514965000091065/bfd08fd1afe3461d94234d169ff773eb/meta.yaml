@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/bfd08fd1afe3461d94234d169ff773eb/artifacts
+end_time: 1758128449584
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: bfd08fd1afe3461d94234d169ff773eb
+run_name: tasteful-moth-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128449424
+status: 4
+tags: []
+user_id: MonsuratAyinde

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/27b057fa81684859ad711a14d2320870/artifacts
+end_time: 1758129889548
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: 27b057fa81684859ad711a14d2320870
+run_name: resilient-ox-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758129889336
+status: 4
+tags: []
+user_id: MonsuratAyinde

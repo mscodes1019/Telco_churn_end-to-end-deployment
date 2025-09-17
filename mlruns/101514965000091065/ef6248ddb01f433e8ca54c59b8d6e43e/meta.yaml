@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/ef6248ddb01f433e8ca54c59b8d6e43e/artifacts
+end_time: 1758128842418
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: ef6248ddb01f433e8ca54c59b8d6e43e
+run_name: welcoming-mouse-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128842232
+status: 4
+tags: []
+user_id: MonsuratAyinde

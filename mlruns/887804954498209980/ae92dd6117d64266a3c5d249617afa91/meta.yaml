@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/MonsuratAyinde/Desktop/churndata/mlruns/887804954498209980/ae92dd6117d64266a3c5d249617afa91/artifacts
+end_time: 1758029497732
+entry_point_name: ''
+experiment_id: '887804954498209980'
+lifecycle_stage: active
+run_id: ae92dd6117d64266a3c5d249617afa91
+run_name: crawling-mole-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758029484393
+status: 3
+tags: []
+user_id: MonsuratAyinde

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/6472fda21a8048bb820b226ebc31b8eb/artifacts
+end_time: 1758129332602
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: 6472fda21a8048bb820b226ebc31b8eb
+run_name: painted-skink-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758129332407
+status: 4
+tags: []
+user_id: MonsuratAyinde

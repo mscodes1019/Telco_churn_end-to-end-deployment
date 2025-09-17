@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/MonsuratAyinde/Desktop/churndata/mlruns/887804954498209980
+creation_time: 1758029483635
+experiment_id: '887804954498209980'
+last_update_time: 1758029483635
+lifecycle_stage: active
+name: Telco Churn - XGBoost

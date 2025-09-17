@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/6202ba9d204841b89e67839bc1dcd09d/artifacts
+end_time: 1758128988758
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: 6202ba9d204841b89e67839bc1dcd09d
+run_name: unique-pug-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128988598
+status: 4
+tags: []
+user_id: MonsuratAyinde

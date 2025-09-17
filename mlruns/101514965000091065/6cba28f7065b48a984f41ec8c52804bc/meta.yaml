@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/6cba28f7065b48a984f41ec8c52804bc/artifacts
+end_time: 1758128207096
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: 6cba28f7065b48a984f41ec8c52804bc
+run_name: salty-conch-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128206842
+status: 4
+tags: []
+user_id: MonsuratAyinde

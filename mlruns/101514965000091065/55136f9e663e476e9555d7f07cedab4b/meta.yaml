@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/55136f9e663e476e9555d7f07cedab4b/artifacts
+end_time: 1758128560147
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: 55136f9e663e476e9555d7f07cedab4b
+run_name: chill-auk-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128559999
+status: 4
+tags: []
+user_id: MonsuratAyinde

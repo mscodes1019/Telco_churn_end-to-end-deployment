@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/MonsuratAyinde/Desktop/churndata/mlruns/887804954498209980/models/m-06d079b50b9b47f3b29285716f0becf5/artifacts
+creation_timestamp: 1758029486568
+experiment_id: '887804954498209980'
+last_updated_timestamp: 1758029497669
+model_id: m-06d079b50b9b47f3b29285716f0becf5
+model_type: null
+name: model
+source_run_id: ae92dd6117d64266a3c5d249617afa91
+status: 2
+status_message: null

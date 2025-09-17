@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/MonsuratAyinde/Desktop/churndata/mlruns/887804954498209980/837f8f6bd10e48e6a045fd69493a7777/artifacts
+end_time: 1758107418500
+entry_point_name: ''
+experiment_id: '887804954498209980'
+lifecycle_stage: active
+run_id: 837f8f6bd10e48e6a045fd69493a7777
+run_name: orderly-shark-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758107408617
+status: 3
+tags: []
+user_id: MonsuratAyinde

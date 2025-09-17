@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/da31de26882041209007a9b0b441b0fd/artifacts
+end_time: 1758130014258
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: da31de26882041209007a9b0b441b0fd
+run_name: unleashed-koi-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758130014117
+status: 4
+tags: []
+user_id: MonsuratAyinde

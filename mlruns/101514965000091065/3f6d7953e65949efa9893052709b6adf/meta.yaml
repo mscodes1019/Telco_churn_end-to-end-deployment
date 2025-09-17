@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MonsuratAyinde/Desktop/churndata/mlruns/101514965000091065/3f6d7953e65949efa9893052709b6adf/artifacts
+end_time: 1758128349416
+entry_point_name: ''
+experiment_id: '101514965000091065'
+lifecycle_stage: active
+run_id: 3f6d7953e65949efa9893052709b6adf
+run_name: sincere-crow-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758128349291
+status: 4
+tags: []
+user_id: MonsuratAyinde
